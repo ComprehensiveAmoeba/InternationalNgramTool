@@ -150,7 +150,3 @@ When finished you’ll see:
 ---
 """
 
-with open("/mnt/data/ngram_tool_guide.txt", "w") as f:
-    f.write(content)
-
-"/mnt/data/ngram_tool_guide.txt"
