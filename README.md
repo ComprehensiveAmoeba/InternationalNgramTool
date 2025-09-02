@@ -1,4 +1,4 @@
-content = """# n-gram analysis tool — User Guide
+# n-gram analysis tool — User Guide
 
 This document explains how to use the tool, the methodology behind its calculations, and how to interpret the results.
 
